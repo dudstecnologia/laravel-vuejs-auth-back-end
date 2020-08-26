@@ -55,4 +55,18 @@ class UserController extends Controller
     
         return response($response, 200);
     }
+
+    public function user()
+    {
+        $user = auth()->user();
+
+        return response($user, 200);
+    }
+
+    public function logout()
+    {
+        auth()->user()->tokens()->delete();
+
+        return response([], 200);
+    }
 }
