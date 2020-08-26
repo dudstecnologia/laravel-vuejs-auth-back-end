@@ -2,7 +2,7 @@
 
 <p>Este projeto foi desenvolvido para o Post Autenticação Laravel e Vue.js, 
 nesta pasta está apenas o projeto do Back-end, acesso o 
-mesmo <a href="#">aqui.</a></p>
+mesmo <a href="https://www.linkedin.com/pulse/autentica%25C3%25A7%25C3%25A3o-laravel-e-vuejs-back-end-eduardo-silva">aqui.</a></p>
 
 <p>Instruções:</p>
 <ul>
